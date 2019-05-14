@@ -114,6 +114,20 @@
 				<note priority="1" from="description">Текст. Название фильтра.</note>
 				<note priority="1" from="meaning">Выпадающее меню, в котором можно выбрать интересующий квест. По умолчанию используется фильтр "Все квесты"</note>
             </trans-unit>
+		</trans-unit>
+		<trans-unit id="697" approved="no">
+                <source xml:space="preserve">Моя строка</source>
+                <target state="needs-translation" xml:space="preserve"></target>
+				<note priority="1" from="description">Появится перевод?</note>
+				<note priority="1" from="meaning">Выпадающее меню, в котором можно выбрать интересующий квест. По умолчанию используется фильтр "Все квесты"</note>
+            </trans-unit>
+	    </trans-unit>
+		<trans-unit id="697" approved="no">
+                <source xml:space="preserve">Тестим строку</source>
+                <target state="needs-translation" xml:space="preserve"></target>
+				<note priority="1" from="description">Текст. Название фильтра.</note>
+				<note priority="1" from="meaning">Выпадающее меню, в котором можно выбрать интересующий квест. По умолчанию используется фильтр "Все квесты"</note>
+            </trans-unit>
         </body>
     </file>
 </xliff>
