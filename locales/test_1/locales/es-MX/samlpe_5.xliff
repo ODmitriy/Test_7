@@ -17,6 +17,7 @@
       </trans-unit>
       <trans-unit id="Page">
         <source xml:space="preserve">Вкладка "Все задачи"</source>
+        <target>111111111111111</target>
       </trans-unit>
       <trans-unit id="Section">
         <source xml:space="preserve">Все задачи</source>
