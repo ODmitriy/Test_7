@@ -87,6 +87,7 @@
       </trans-unit>
       <trans-unit id="697">
         <source xml:space="preserve">Все квесты</source>
+        <target>впрыварпыкеарпи</target>
         <note priority="1" from="description">Текст. Название фильтра.</note>
         <note priority="1" from="meaning">Выпадающее меню, в котором можно выбрать интересующий квест. По умолчанию используется фильтр "Все квесты"</note>
       </trans-unit>
