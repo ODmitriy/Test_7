@@ -45,6 +45,7 @@
       </trans-unit>
       <trans-unit id="667">
         <source xml:space="preserve">РЕШЕНА</source>
+        <target>COMPLITED</target>
         <note priority="1" from="description">Статус задачи</note>
         <note priority="1" from="meaning">Данный статус получает задача, когда программа успешно прошла проверку. Пользователь может повторно отправлять решение на проверку в течение трех дней, после получения этого статуса</note>
       </trans-unit>
